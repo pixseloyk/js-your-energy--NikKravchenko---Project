@@ -1,3 +1,0 @@
-}
-
-teamLink.addEventListener('click', onLinkClick);
